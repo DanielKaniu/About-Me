@@ -4,8 +4,8 @@ Welcome to my space.
 
 I am Daniel Kaniu, a developer based in the cool land of Kenya :earth_africa: (+254 is the code)
 
-My current interest is in web development; so I play a lot with web-based programming languages, 
-  e.g., Angular and Laravel and some bit of KOTLIN.
+My current interest is in web development; so I play a lot with web-based technologies like Angular and Laravel 
+and some bit of KOTLIN for mobile apps development.
   
 I am also learning the art of patient living. Being patient in learning, coding and being patient in life as a whole.
 
