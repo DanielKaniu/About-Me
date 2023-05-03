@@ -1,11 +1,8 @@
 Yoh! :wave: How's it going?! 
 
-Welcome to my space.
-
 I am Daniel Kaniu, a developer based in the cool land of Kenya :earth_africa:
 
-My current interest is in web development; so I play a lot with web-based technologies like Angular and Laravel 
-and some bit of KOTLIN for mobile apps development.
+My current interest is in web development; so I play a lot with web-based technologies like Angular, Laravel, web servers like Nginx, et al.
   
 I am also learning the art of patient living. Being patient in learning, coding and being patient in life as a whole.
 
