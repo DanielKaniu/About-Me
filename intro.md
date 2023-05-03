@@ -2,7 +2,7 @@ Yoh! :wave: How's it going?!
 
 Welcome to my space.
 
-I am Daniel Kaniu, a developer based in the cool land of Kenya :earth_africa: (+254 is the code)
+I am Daniel Kaniu, a developer based in the cool land of Kenya :earth_africa:
 
 My current interest is in web development; so I play a lot with web-based technologies like Angular and Laravel 
 and some bit of KOTLIN for mobile apps development.
